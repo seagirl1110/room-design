@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #533738;
+  background-color: #efe6e4;
+}
+
+.header-wrapper {
+  background-image: url(/header-bg-img.a579f064.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 35px 0 170px;
+}
+
+.header {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+.header__logo {
+  margin-right: auto;
+}
+.header__phone {
+  margin-left: 10px;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo__text {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.menu {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+}
+.menu__item {
+  margin-right: 25px;
+}
+.menu__item:hover .menu__link {
+  color: #cc8b86;
+}
+.menu__link {
+  font-size: 16px;
+  line-height: 20px;
+  color: #533738;
+  text-decoration: none;
+}
+
+.submitting {
+  width: 100%;
+  max-width: 1040px;
+  margin: 0 auto;
+  margin-top: 90px;
+}
+.submitting__slogan {
+  font-size: 50px;
+  line-height: 62px;
+}
+.submitting__text {
+  margin: 25px 0 20px;
+}
+.btn {
+  padding: 25px 65px;
+  font-size: 20px;
+  line-height: 24px;
+  color: #533738;
+  background-color: #cc8b86;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=/2021-03-10_room_design.e31bb0bc.css.map */
