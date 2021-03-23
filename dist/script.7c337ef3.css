@@ -64,7 +64,7 @@ body {
 }
 
 .header-wrapper {
-  background-image: url(/header-bg-img.a579f064.jpg);
+  background-image: url(header-bg-img.a579f064.jpg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 35px 0 170px;
@@ -232,7 +232,7 @@ body {
 }
 .portfolio__link::before {
   content: "";
-  background-image: url(/portfolio-link.03eaa176.svg);
+  background-image: url(portfolio-link.03eaa176.svg);
   position: absolute;
   right: -71px;
   top: 12px;
@@ -377,11 +377,11 @@ body {
 }
 .reviews-slider--prev {
   margin-right: 30px;
-  background-image: url(/reviews-prev.63b45245.svg);
+  background-image: url(reviews-prev.63b45245.svg);
 }
 .reviews-slider--next {
   margin-left: 30px;
-  background-image: url(/reviews-next.e57d854e.svg);
+  background-image: url(reviews-next.e57d854e.svg);
 }
 
 .aplication-wrapper {
@@ -444,4 +444,4 @@ body {
   margin-left: auto;
 }
 
-/*# sourceMappingURL=/script.7c337ef3.css.map */
+/*# sourceMappingURL=script.7c337ef3.css.map */
